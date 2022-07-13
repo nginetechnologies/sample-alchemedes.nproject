@@ -1,0 +1,171 @@
+{
+    "guid": "e0cd11f5-eccf-6a41-3842-e337c21f7982",
+    "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
+    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+    "instanceGuid": "fc13fef4-ec47-0528-0871-2132733a45ee",
+    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+        "skeleton": "e0cd11f5-eccf-6a41-3842-e337c21f7982"
+    },
+    "joints": {
+        "07cfe950-1420-75ad-bae2-ca2736eb2a0b": {
+            "name": "BackLeg3.R",
+            "index": 23
+        },
+        "0c6077e1-9c64-0f57-dca9-4cde4afedc71": {
+            "name": "BackLeg.L",
+            "index": 9
+        },
+        "0f7d2699-5cf2-fc08-a2e9-12c4730f4c15": {
+            "name": "FrontLeg2.L",
+            "index": 4
+        },
+        "13963867-219e-b160-37c4-3dd87c14fab4": {
+            "name": "Body",
+            "index": 2
+        },
+        "2a7438f1-ed2b-e54b-dafe-1ccc35ed6e97": {
+            "name": "MidFrontLeg2.R",
+            "index": 19
+        },
+        "2ba96d73-8765-b956-8932-8e2f16b94cc0": {
+            "name": "FrontFoot2.R",
+            "index": 36
+        },
+        "2c38ccf3-ec7f-7683-edac-f63119d7a3e4": {
+            "name": "FrontLeg2.R",
+            "index": 16
+        },
+        "30b9fe63-6378-7f53-a35e-984ba6ed0108": {
+            "name": "MidBackFoot.L",
+            "index": 34
+        },
+        "32cf24b6-4f33-343d-02bd-b7abe6ab6839": {
+            "name": "MidFrontLeg.R",
+            "index": 18
+        },
+        "3a1c5f31-9aa9-bd0a-f889-1a68cdc22a1d": {
+            "name": "MidBackFoot.R",
+            "index": 39
+        },
+        "457e75fc-91f5-3612-e729-c4cd92f17a22": {
+            "name": "BackLeg2.R",
+            "index": 22
+        },
+        "47449567-62ef-e568-eb6a-483d75e988e8": {
+            "name": "MidBackLeg3.R",
+            "index": 26
+        },
+        "4d9edc01-c3a5-93db-04d0-9f89deeb44f5": {
+            "name": "FrontLeg3.R",
+            "index": 17
+        },
+        "4f5bf255-9875-8867-fe49-04e60bf3e713": {
+            "name": "MidBackLeg.L",
+            "index": 12
+        },
+        "54f65fe6-5a96-046c-20ce-6b2f61b31fdc": {
+            "name": "MidFrontLeg3.R",
+            "index": 20
+        },
+        "563e9cef-6d7a-737b-f1ad-89ad47782ced": {
+            "name": "BackLeg.R",
+            "index": 21
+        },
+        "58be552c-2915-3868-0274-867b90fab170": {
+            "name": "PoleTarget.L",
+            "index": 30
+        },
+        "5b3d7df2-abe6-bf66-fd39-ee1ebfaf5e91": {
+            "name": "MidFrontLeg3.L",
+            "index": 8
+        },
+        "5b49bb60-d4cb-71e7-7ed2-09b9f4cbd111": {
+            "name": "Thorax",
+            "index": 28
+        },
+        "5e59c2d5-33c6-d4ef-e64e-8827ce7b3f23": {
+            "name": "BackLeg2.L",
+            "index": 10
+        },
+        "5fa16f38-8bd5-6076-5b02-f6e1ec325391": {
+            "name": "Head",
+            "index": 29
+        },
+        "7732882c-5374-dbc5-adc2-824513eb491c": {
+            "name": "FrontFoot.L",
+            "index": 31
+        },
+        "7d1427ce-6d89-a3fe-009d-ca91f0ae9466": {
+            "name": "MidFrontLeg2.L",
+            "index": 7
+        },
+        "891152e9-0959-c286-fae3-915239abeddd": {
+            "name": "SpiderArmature",
+            "index": 0
+        },
+        "8df1c4c7-c3bc-cfe0-568d-7ac8d52351bc": {
+            "name": "MidFrontLeg.L",
+            "index": 6
+        },
+        "a5cb96fb-634c-35b4-c81e-73624db230d5": {
+            "name": "BackLeg3.L",
+            "index": 11
+        },
+        "b1d616b6-7c05-e14b-ab1d-b79b2842d6ff": {
+            "name": "Abdomen",
+            "index": 27
+        },
+        "b4d6b90d-0f5b-b058-cea2-5072bc73300a": {
+            "name": "BackFoot.L",
+            "index": 33
+        },
+        "b8b1d73c-2989-9f4e-81ff-575f98daddef": {
+            "name": "FrontLeg.L",
+            "index": 3
+        },
+        "bc9bf416-a1dc-0ad2-06f1-ab4a2266ef4f": {
+            "name": "MidBackLeg2.L",
+            "index": 13
+        },
+        "bd0d7cbb-8a8a-a7ea-200d-80d781851080": {
+            "name": "MidBackLeg3.L",
+            "index": 14
+        },
+        "c14f5edc-e204-2a29-18de-6ee26f20fce6": {
+            "name": "FrontLeg.R",
+            "index": 15
+        },
+        "c66b8371-108d-05bc-e804-51f1f500e384": {
+            "name": "Root",
+            "index": 1
+        },
+        "c9ff592d-5218-bfae-e18a-f40fdb57e5e3": {
+            "name": "BackFoot.R",
+            "index": 38
+        },
+        "cf346d65-5bc2-cbf6-d03c-7c956ef6a628": {
+            "name": "FrontLeg3.L",
+            "index": 5
+        },
+        "d6cc1f46-ccb0-63b9-ddf7-81fafc20c0db": {
+            "name": "MidFrontFoot.L",
+            "index": 32
+        },
+        "dbe09c04-dcea-8656-247d-f3938533174f": {
+            "name": "MidBackLeg.R",
+            "index": 24
+        },
+        "e3727964-8b08-2519-2532-52b8df1f1e3a": {
+            "name": "PoleTarget.R",
+            "index": 35
+        },
+        "f915c42d-a31a-c1e2-9a76-b5a06ad75354": {
+            "name": "MidFrontFoot.R",
+            "index": 37
+        },
+        "ff3c679e-e23c-8b96-ca3c-2622e9141aa9": {
+            "name": "MidBackLeg2.R",
+            "index": 25
+        }
+    }
+}

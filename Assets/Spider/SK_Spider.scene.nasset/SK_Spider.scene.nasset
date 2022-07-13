@@ -1,0 +1,31 @@
+{
+    "guid": "cf1958ca-62db-6e7c-60fc-d99a8796b70f",
+    "source": "../SK_Spider.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "ea0a16f5-d056-e885-503a-a2bc85e5379d",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "SC_Spider"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "c64a52ac-2a62-3f81-0925-82f741c16b51",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Spider Dan"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "4db5d958-3ab9-9ec8-2c5d-831c22623f80"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "cf1958ca-62db-6e7c-60fc-d99a8796b70f"
+    }
+}
