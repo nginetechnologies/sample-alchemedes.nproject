@@ -16,11 +16,11 @@
             "typeGuid": "d4e4838b-b9dc-4788-8e33-7316ffef1693",
             "instanceGuid": "05d8c77e-c827-4bfa-b666-170762eb37d8",
             "d4e4838b-b9dc-4788-8e33-7316ffef1693": {
-                "jumpHeight": 3.0,
-                "walkingSpeed": 3.0,
-                "runningSpeed": 4.0,
-                "walkingTurnSpeed": 5.0,
-                "runningTurnSpeed": 7.5
+                "jumpHeight": 1.0,
+                "walkingSpeed": 1.0,
+                "runningSpeed": 2.0,
+                "walkingTurnSpeed": 2.0,
+                "runningTurnSpeed": 5
             },
             "data_components": [
                 {
@@ -95,14 +95,14 @@
                                 "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
                             },
                             "a87d82b2-1cd5-4b81-8103-85248c61d585": {
-                                "radius": 0.5,
-                                "half_height": 0.5
+                                "radius": 0.05,
+                                "half_height": 0.05
                             },
                             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                                 "position": [
                                     0.0,
                                     0.0,
-                                    1.0
+                                    0.1
                                 ]
                             }
                         },
@@ -129,7 +129,7 @@
                                 },
                                 {
                                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                                    "templateInstanceGuid": "75c2a281-875c-f6f3-506c-ac58bf83b0b4"
+                                    "templateInstanceGuid": "ca8fa885-f5be-2a8b-f069-0d0b587446d9"
                                 }
                             ],
                             "children": [
@@ -149,14 +149,14 @@
                                                 "a8146617-705b-45d8-8081-2fec12d073ef"
                                             ],
                                             "jump_animations": [
-                                                "6d0ab017-8399-4b5c-978e-99e5d0f1b248",
+                                                "95d6e320-a15e-0bf1-38f2-47c938dc4275",
                                                 "25cf799a-060f-4dcf-8993-c95c01cf5735",
-                                                "d553038a-3287-4d7a-8c5c-9d5b349af7b6"
+                                                "384b8bb1-0796-d7b0-3696-83b3240fb7e5"
                                             ]
                                         },
                                         {
                                             "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                                            "templateInstanceGuid": "7b8a64e4-9a04-ee09-6a62-106fabab9caf"
+                                            "templateInstanceGuid": "721cff00-913e-75e7-e4f8-6588400670dd"
                                         }
                                     ]
                                 }
