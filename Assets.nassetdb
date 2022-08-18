@@ -196,14 +196,6 @@
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
-    "23f2d006-7dbe-51bd-bc58-ce0446df8fa2": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Toon_Char/Base_Char.scene.nasset/Body.mesh.nasset/Body.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
     "25cf799a-060f-4dcf-8993-c95c01cf5735": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -482,11 +474,6 @@
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
-    "4aa5b67d-b6c2-ee4f-e697-6de6bbb28531": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Toon_Char/Base_Char.scene.nasset/Base_Char.scene.nasset"
-    },
     "4b83a38a-2b96-722d-7af9-c16c5b57f617": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -531,11 +518,6 @@
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
-    },
-    "4f41bfeb-ccd4-be80-536d-31901ac4217e": {
-        "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Toon_Char/Base_Char.scene.nasset/Body.mesh.nasset/Skeletons/Root.skel.nasset"
     },
     "505202f9-26a6-7e1d-62ab-d13ed80dc276": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -755,14 +737,6 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Carpet Red.mesh.nasset/Carpet Red Dungeon Atlas.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "71028a3d-bf15-f14f-2dee-d1ab744a7017": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Toon_Char/Base_Char.scene.nasset/Body.mesh.nasset/Body Face.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
@@ -1270,19 +1244,6 @@
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
-    "d01ef72c-f311-cfa2-7355-d73c1a5666b6": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Toon_Char/Base_Char.scene.nasset/Body.mesh.nasset/Body Skin.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "d05fd129-0ea9-431b-b06b-dbb5b7958ff8": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Toon_Char/Base_Char.scene.nasset/Body.mesh.nasset/Animations/Idle_Char.anim.nasset"
-    },
     "d0a19c12-4e22-22db-60c0-299210db0d39": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -1363,11 +1324,6 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
-    "d86898f1-fc4d-d369-d6ad-cff940a0e74b": {
-        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
-        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-        "path": "Assets/Toon_Char/Base_Char.scene.nasset/Body.mesh.nasset/Body Face.meshskin.nasset"
-    },
     "d88c8174-1258-a92b-e74d-f8c4cfd7bc4d": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1431,10 +1387,6 @@
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
-    },
-    "df74fe0f-c75a-a9c3-7fa7-7dc48cfd4ca6": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Toon_Char/Material Instances/Skin.mtli.nasset"
     },
     "df9d8c8f-8b74-43dc-9a95-b57a6eda5af4": {
         "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
@@ -1521,10 +1473,6 @@
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
-    },
-    "edc5297a-6916-9a21-387a-9909f52001ba": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Toon_Char/Material Instances/Face.mtli.nasset"
     },
     "edf26c0e-42ef-fa79-b194-ae53fc06745f": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -1629,10 +1577,5 @@
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
-    },
-    "ff2c8736-e1c4-2754-7196-22f241a3a2e5": {
-        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
-        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-        "path": "Assets/Toon_Char/Base_Char.scene.nasset/Body.mesh.nasset/Body Skin.meshskin.nasset"
     }
 }
