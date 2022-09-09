@@ -749,12 +749,6 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
-    "74e5159b-0ab5-4ac1-b761-55bb7fe0d93b": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "componentTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/GreySky.mtli.nasset",
-        "thumbnail": "1b705561-d3bf-fb1d-63af-9c19a3587c68"
-    },
     "75092582-33a5-f015-53fc-e9daaff28737": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
@@ -1026,6 +1020,12 @@
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Spider/SK_Spider.scene.nasset/SK Spider.mesh.nasset/Animations/Run.anim.nasset"
+    },
+    "a8391be0-2fb0-4d4a-9a98-0e297c11e372": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "componentTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/GreySky.mtli.nasset",
+        "thumbnail": "1b705561-d3bf-fb1d-63af-9c19a3587c68"
     },
     "a8ad669c-bb11-8e85-5455-dfbe41f2a7a1": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
