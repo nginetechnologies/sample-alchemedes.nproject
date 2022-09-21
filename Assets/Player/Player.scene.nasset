@@ -71,12 +71,12 @@
                     "a413cecf-a566-413d-bb01-bd1317cd4bb2": {
                         "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
                     },
-					"ac11f104-0d79-4ecf-bae5-dbbbb344ad19": {
-						"type": 2,
-						"layer": 1,
-						"overriddenMass": 80,
-						"body_flags": 8
-					},
+                    "ac11f104-0d79-4ecf-bae5-dbbbb344ad19": {
+                        "type": 2,
+                        "layer": 1,
+                        "overriddenMass": 80,
+                        "body_flags": 8
+                    },
                     "data_components": [
                         {
                             "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
@@ -117,9 +117,9 @@
                                     -0.0,
                                     180.0
                                 ],
-								"scale": [
-									1.0
-								]
+                                "scale": [
+                                    1.0
+                                ]
                             },
                             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
                                 "scene": "308ef67a-9524-3c38-1447-942f7fc2aa7b"
@@ -200,5 +200,5 @@
     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
         "scene": "ec66ce19-1e67-478b-a8e6-07b9cf74df4c"
     },
-    "thumbnailGuid": "e95160b5-9f01-a360-4319-88759e54333f"
+    "thumbnailGuid": "cf0c49f1-b20e-b257-1c8f-1b242eea3f5d"
 }

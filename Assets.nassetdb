@@ -11,9 +11,18 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Study Wall Door Frame2.mesh.nasset/Study Wall Door Frame2.mesh.nasset",
+        "thumbnail": "aeaa01eb-2b8e-d526-9911-1adf96d083ef",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
+    },
+    "02f029d7-1c62-f0ca-6b55-f2e79a878ec8": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Book Red38.mesh.nasset/Thumbnails/Book Red38.mesh.nasset.tex.nasset"
+    },
+    "03ab53cd-410c-1d9c-4020-742c9ccf907d": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Firewood.mesh.nasset/Thumbnails/Firewood.mesh.nasset.tex.nasset"
     },
     "03d12783-fcb3-9bf7-cf24-01151798d550": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -27,22 +36,48 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Wall Type 03 4.mesh.nasset/Wall Type 03 4.mesh.nasset",
+        "thumbnail": "e6e6208f-863c-0041-389d-8cf1d2808d85",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
+    },
+    "0584facd-e9d9-b225-4ea6-07b2e73611d7": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Cauldron Stand4.mesh.nasset/Thumbnails/Cauldron Stand4.mesh.nasset.tex.nasset"
+    },
+    "06eb816e-69e8-e530-d704-28497bc41c00": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Jar Full5.mesh.nasset/Thumbnails/Jar Full5.mesh.nasset.tex.nasset"
+    },
+    "08b62cc8-a1ce-388d-963a-8d442156ab80": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Firewood Stack.mesh.nasset/Thumbnails/Firewood Stack.mesh.nasset.tex.nasset"
     },
     "08b6948e-eeaf-6908-a230-3c04d5862587": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Jar LG8.mesh.nasset/Jar LG8.mesh.nasset",
+        "thumbnail": "dfc12ad0-21da-a8a8-ccf7-d64ae2d703a1",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
+    },
+    "08e38167-7b04-7e7a-eddc-157b53ad5bc0": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Coat Hook.mesh.nasset/Thumbnails/Coat Hook.mesh.nasset.tex.nasset"
     },
     "0a3c84c2-2089-a250-d865-ae771755010d": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
         "path": "Assets/Spider/SK_Spider.scene.nasset/SK Spider.mesh.nasset/SK Spider White1.meshskin.nasset"
+    },
+    "0af8a68a-386d-e4c8-50c6-fe1fc4531e39": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Desk.mesh.nasset/Thumbnails/Desk.mesh.nasset.tex.nasset"
+    },
+    "0c91d031-112a-7f34-b6b6-6ea8c3bc216a": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Bone4.mesh.nasset/Thumbnails/Bone4.mesh.nasset.tex.nasset"
     },
     "0caab7be-c202-eff8-4bfc-d3478d28736e": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -56,6 +91,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Book Open6.mesh.nasset/Book Open6.mesh.nasset",
+        "thumbnail": "b28ee29a-1e99-67b8-155a-ad8d1ef31a39",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -64,6 +100,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Knife.mesh.nasset/Knife.mesh.nasset",
+        "thumbnail": "d497ea73-4859-e7c3-e4b8-4ed6853dd797",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -88,6 +125,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Firewood.mesh.nasset/Firewood.mesh.nasset",
+        "thumbnail": "03ab53cd-410c-1d9c-4020-742c9ccf907d",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -108,6 +146,18 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "171e2310-4972-4642-9ca4-2150383a358f": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Carpet Green.mesh.nasset/Thumbnails/Carpet Green.mesh.nasset.tex.nasset"
+    },
+    "17d6c4d1-fadc-53c8-bfaf-6e1d5bf1951e": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Beaker Full05.mesh.nasset/Thumbnails/Beaker Full05.mesh.nasset.tex.nasset"
+    },
+    "188a298e-5181-3a63-8776-d1b3f0d314ce": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Study Columns16.mesh.nasset/Thumbnails/Study Columns16.mesh.nasset.tex.nasset"
+    },
     "18e8b953-5e20-232d-7b5a-da9e15aef086": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
@@ -123,6 +173,10 @@
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
+    },
+    "19461685-e378-1a82-1968-0a16374bbf7e": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Cell Floor Puddle05.mesh.nasset/Thumbnails/Cell Floor Puddle05.mesh.nasset.tex.nasset"
     },
     "19838e09-6294-b8d7-694e-37dc5d40e742": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -144,6 +198,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Bookshelf3.mesh.nasset/Bookshelf3.mesh.nasset",
+        "thumbnail": "4387210e-5de0-9143-b8a2-cef5af38066c",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -176,14 +231,28 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Amphora Stand.mesh.nasset/Amphora Stand.mesh.nasset",
+        "thumbnail": "69b2ca9b-5bd7-bce0-7b9b-d88cc10f44e4",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
+    },
+    "1ff142e9-e3e7-f770-761d-f17394c7692c": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Potion Green6.mesh.nasset/Thumbnails/Potion Green6.mesh.nasset.tex.nasset"
+    },
+    "20bdbfea-0aa9-3627-bbfe-309406df4833": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Flask8.mesh.nasset/Thumbnails/Flask8.mesh.nasset.tex.nasset"
+    },
+    "2340938b-b3d1-400b-a2d5-8aa84e785038": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Fireplace2.mesh.nasset/Thumbnails/Fireplace2.mesh.nasset.tex.nasset"
     },
     "23c15cb2-9e41-0b34-d9dc-1ab6c05d8181": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Inkwell6.mesh.nasset/Inkwell6.mesh.nasset",
+        "thumbnail": "ae623ba7-c598-45d1-cd97-6919508806ac",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -192,6 +261,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Carpet Green.mesh.nasset/Carpet Green.mesh.nasset",
+        "thumbnail": "171e2310-4972-4642-9ca4-2150383a358f",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -221,14 +291,20 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Alchemedes.scene.nasset/doorWoodenRoundLeft.mesh.nasset/doorWoodenRoundLeft.mesh.nasset",
+        "thumbnail": "c8deee76-65e8-b01d-7055-0f8dab991621",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
+    },
+    "2aa2d1c8-cdbc-036e-3e71-123e4d3975e9": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Book Green SM24.mesh.nasset/Thumbnails/Book Green SM24.mesh.nasset.tex.nasset"
     },
     "2add701a-7436-fd38-e1c5-d7b515afd48d": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Jar Empty4.mesh.nasset/Jar Empty4.mesh.nasset",
+        "thumbnail": "d26f22d2-6a99-8a12-fe8e-321fb1b7dc1a",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -237,6 +313,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Alchemedes.scene.nasset/doorIronRight.mesh.nasset/doorIronRight.mesh.nasset",
+        "thumbnail": "2db9ee1b-096c-fb86-fa47-888a3dbefdfc",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -261,6 +338,18 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Cubemaps/Alchemedes_EnviroBRDF.tex.nasset"
     },
+    "2cc9353b-828d-a949-e5c6-e7562a941947": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Amphora6.mesh.nasset/Thumbnails/Amphora6.mesh.nasset.tex.nasset"
+    },
+    "2d7d3f48-470f-c326-802e-f6ce34124403": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Bucket4.mesh.nasset/Thumbnails/Bucket4.mesh.nasset.tex.nasset"
+    },
+    "2db9ee1b-096c-fb86-fa47-888a3dbefdfc": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Alchemedes.scene.nasset/doorIronRight.mesh.nasset/Thumbnails/doorIronRight.mesh.nasset.tex.nasset"
+    },
     "2dd5440e-9068-87ca-d2c3-9c646075bbac": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
@@ -273,6 +362,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Desk.mesh.nasset/Desk.mesh.nasset",
+        "thumbnail": "0af8a68a-386d-e4c8-50c6-fe1fc4531e39",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -287,7 +377,8 @@
     },
     "2fb9fa15-7247-3187-1260-3fd904083d63": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/Dungeon Atlas.mtli.nasset"
+        "path": "Assets/Scene/Material Instances/Dungeon Atlas.mtli.nasset",
+        "thumbnail": "6770e430-779c-a8eb-970f-4ea42a543a93"
     },
     "302ddbd2-1a69-f44c-5ac3-1c97fc7360fa": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -301,6 +392,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Spider/SK_Spider.scene.nasset/SK Spider.mesh.nasset/SK Spider.mesh.nasset",
+        "thumbnail": "f90b5cbe-5e0c-6808-8307-f23b12d7cbd6",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -309,9 +401,14 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Cauldron Full.mesh.nasset/Cauldron Full.mesh.nasset",
+        "thumbnail": "94c1fc5e-a114-6d23-62ae-ded1c29d61fe",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
+    },
+    "31d6aef6-3d68-4529-1079-19051760d946": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Crystal Ball Stand.mesh.nasset/Thumbnails/Crystal Ball Stand.mesh.nasset.tex.nasset"
     },
     "3211d97a-d452-4fac-93df-ebe7f3104539": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -322,6 +419,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Crystal Ball Stand.mesh.nasset/Crystal Ball Stand.mesh.nasset",
+        "thumbnail": "31d6aef6-3d68-4529-1079-19051760d946",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -330,6 +428,18 @@
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
         "path": "Assets/Spider/SK_Spider.scene.nasset/SK Spider.mesh.nasset/SK Spider Brown.meshskin.nasset"
+    },
+    "3438845a-5a27-f2fd-f390-41d4e59b344c": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Candelier Triple.mesh.nasset/Thumbnails/Candelier Triple.mesh.nasset.tex.nasset"
+    },
+    "35c04e6f-8782-f9e7-7175-737dba54c9f8": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Dungeon Floor Square LG12.mesh.nasset/Thumbnails/Dungeon Floor Square LG12.mesh.nasset.tex.nasset"
+    },
+    "38374a9d-bad0-17e9-1a2d-2a433613d9aa": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Thumbnails/SC_Alchemedes.scene.nasset.tex.nasset"
     },
     "384b8bb1-0796-d7b0-3696-83b3240fb7e5": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -348,9 +458,14 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Cauldron10.mesh.nasset/Cauldron10.mesh.nasset",
+        "thumbnail": "7da3516d-daf8-c4a1-e499-ae65538b083d",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
+    },
+    "3a72c5ec-5b0f-728f-3989-f899bee093df": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Chair11.mesh.nasset/Thumbnails/Chair11.mesh.nasset.tex.nasset"
     },
     "3b1fe334-f89c-b936-2cf0-8077756adf46": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -364,15 +479,21 @@
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Alchemedes.scene.nasset/SC_Alchemedes.scene.nasset",
-        "thumbnail": "2e8d8b87-6f2b-95d4-1346-910a2eefc578"
+        "thumbnail": "38374a9d-bad0-17e9-1a2d-2a433613d9aa"
     },
     "3caa040c-aea0-4af2-ddb2-06c6a4245056": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Spider/Material Instances/White1.mtli.nasset"
+        "path": "Assets/Spider/Material Instances/White1.mtli.nasset",
+        "thumbnail": "62afa5ec-04dc-75ee-c2d3-1278d59bb430"
+    },
+    "3d32befe-fc9e-0269-56a1-496fd7ed8cf7": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Cauldron Empty.mesh.nasset/Thumbnails/Cauldron Empty.mesh.nasset.tex.nasset"
     },
     "3d4a7fad-8ee4-a59a-0da8-e9bd7fe32073": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Spider/Material Instances/Eyes1.mtli.nasset"
+        "path": "Assets/Spider/Material Instances/Eyes1.mtli.nasset",
+        "thumbnail": "fc655812-fcc6-60e2-7b50-661ec3acbfd5"
     },
     "3d68264d-60cb-26a4-1323-62752e4130ed": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -390,6 +511,10 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "3ee82561-5152-95e8-1436-c19c97b4d4fe": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Book Red Deep24.mesh.nasset/Thumbnails/Book Red Deep24.mesh.nasset.tex.nasset"
+    },
     "409d1341-9d03-718d-3b1d-2bc60a2f7f4e": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
@@ -402,6 +527,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Coat Hook Full.mesh.nasset/Coat Hook Full.mesh.nasset",
+        "thumbnail": "a1f38fa4-0486-2512-286b-438a1b6a8b3a",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -421,6 +547,10 @@
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
+    },
+    "4387210e-5de0-9143-b8a2-cef5af38066c": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Bookshelf3.mesh.nasset/Thumbnails/Bookshelf3.mesh.nasset.tex.nasset"
     },
     "438901e1-e6de-7640-d8de-ea9dd385bf3d": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -442,6 +572,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Fireplace2.mesh.nasset/Fireplace2.mesh.nasset",
+        "thumbnail": "2340938b-b3d1-400b-a2d5-8aa84e785038",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -454,14 +585,20 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Potion Red10.mesh.nasset/Potion Red10.mesh.nasset",
+        "thumbnail": "d95d23bb-9899-ade6-976e-15c6062a58eb",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
+    },
+    "48fe03d0-fd9f-ee4e-7c2e-533cf69eea77": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Scroll Open.mesh.nasset/Thumbnails/Scroll Open.mesh.nasset.tex.nasset"
     },
     "491ffb4c-4202-5aac-519e-087cfcf3ab9c": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Crystal Ball.mesh.nasset/Crystal Ball.mesh.nasset",
+        "thumbnail": "94be785f-5eb9-0f43-121d-e65e595b6b1c",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -470,6 +607,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Potion Green6.mesh.nasset/Potion Green6.mesh.nasset",
+        "thumbnail": "1ff142e9-e3e7-f770-761d-f17394c7692c",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -478,6 +616,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Chest Closed.mesh.nasset/Chest Closed.mesh.nasset",
+        "thumbnail": "aa7e381c-a0a6-2986-7111-d6095b1ac1ce",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -486,6 +625,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Key Golden.mesh.nasset/Key Golden.mesh.nasset",
+        "thumbnail": "f6819b7f-9758-524b-4e08-d9f8e8a859ca",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -499,6 +639,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Barrel Closed4.mesh.nasset/Barrel Closed4.mesh.nasset",
+        "thumbnail": "9c952735-9354-14ad-3d64-09ac6d229783",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -527,13 +668,22 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "5073b9fd-3e51-6151-c047-66798ae24e95": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Skull7.mesh.nasset/Thumbnails/Skull7.mesh.nasset.tex.nasset"
+    },
     "50ada0eb-f728-fef3-1f5d-587c34b2e37d": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Potion Blue8.mesh.nasset/Potion Blue8.mesh.nasset",
+        "thumbnail": "7851c840-c570-c86c-6ec3-a1c981a1dfee",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
+    },
+    "50ae94e2-2bc2-aa71-0e17-4992d5762563": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Wall Type 05.mesh.nasset/Thumbnails/Wall Type 05.mesh.nasset.tex.nasset"
     },
     "51716c43-1432-9d4a-a5a1-49849171a3c3": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -547,6 +697,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Alchemedes.scene.nasset/basementPassagePrison.mesh.nasset/basementPassagePrison.mesh.nasset",
+        "thumbnail": "efcbdc1a-e841-220b-b26b-c105dbb1c61c",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -555,6 +706,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Flask8.mesh.nasset/Flask8.mesh.nasset",
+        "thumbnail": "20bdbfea-0aa9-3627-bbfe-309406df4833",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -563,6 +715,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Candelier Triple.mesh.nasset/Candelier Triple.mesh.nasset",
+        "thumbnail": "3438845a-5a27-f2fd-f390-41d4e59b344c",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -571,22 +724,37 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Book Green LG38.mesh.nasset/Book Green LG38.mesh.nasset",
+        "thumbnail": "8bb89186-4053-460f-9ba0-60808dd06b2f",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
+    },
+    "54da6a14-3e5f-67ac-7116-09780c46060e": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Cell Walls Stone 02 4.mesh.nasset/Thumbnails/Cell Walls Stone 02 4.mesh.nasset.tex.nasset"
     },
     "565fa3dd-e094-a6de-ccb0-f0b6da0f0a40": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Cauldron Stand4.mesh.nasset/Cauldron Stand4.mesh.nasset",
+        "thumbnail": "0584facd-e9d9-b225-4ea6-07b2e73611d7",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
+    },
+    "578c882b-5fd8-4e25-7ca3-76c9ddff5a6e": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Alchemedes.scene.nasset/ivy Leaf6.mesh.nasset/Thumbnails/ivy Leaf6.mesh.nasset.tex.nasset"
+    },
+    "57eda7dd-3ee0-7e86-53e1-9d5b8d899160": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Top Wood Trim27.mesh.nasset/Thumbnails/Top Wood Trim27.mesh.nasset.tex.nasset"
     },
     "57f750fd-a935-3d1b-df3d-aa272a9747be": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Book Red SM16.mesh.nasset/Book Red SM16.mesh.nasset",
+        "thumbnail": "6d09ccba-509f-07a0-0063-85c547a22419",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -598,6 +766,14 @@
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
+    },
+    "5b73bf4e-346b-ca95-8603-f7d156fee6c9": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Plate.mesh.nasset/Thumbnails/Plate.mesh.nasset.tex.nasset"
+    },
+    "5c4511d0-7ad1-b67a-14e0-3ed0dec922cf": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Beaker Empty4.mesh.nasset/Thumbnails/Beaker Empty4.mesh.nasset.tex.nasset"
     },
     "5d607636-f37f-4e07-70e9-f1317cc8f2bb": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -624,14 +800,24 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Barrel Open.mesh.nasset/Barrel Open.mesh.nasset",
+        "thumbnail": "c5b68f96-746e-4778-85e7-563c9e945363",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
+    },
+    "6032dd1a-1608-b8fe-5bda-b5e15be9d233": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Carpet Red.mesh.nasset/Thumbnails/Carpet Red.mesh.nasset.tex.nasset"
+    },
+    "61bc7f18-17e6-fe5d-1968-491f3955f78b": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Scroll SM31.mesh.nasset/Thumbnails/Scroll SM31.mesh.nasset.tex.nasset"
     },
     "61fc33e3-5fff-cd02-c2a6-0fc4ad4eeafe": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Coat Hook.mesh.nasset/Coat Hook.mesh.nasset",
+        "thumbnail": "08e38167-7b04-7e7a-eddc-157b53ad5bc0",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -640,9 +826,14 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Wall Type 05.mesh.nasset/Wall Type 05.mesh.nasset",
+        "thumbnail": "50ae94e2-2bc2-aa71-0e17-4992d5762563",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
+    },
+    "62afa5ec-04dc-75ee-c2d3-1278d59bb430": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Spider/Material Instances/Thumbnails/White1.mtli.nasset.tex.nasset"
     },
     "63cca087-a799-7b9d-95af-8da4ed8b1d04": {
         "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
@@ -653,6 +844,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Book Green SM24.mesh.nasset/Book Green SM24.mesh.nasset",
+        "thumbnail": "2aa2d1c8-cdbc-036e-3e71-123e4d3975e9",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -661,6 +853,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Chair11.mesh.nasset/Chair11.mesh.nasset",
+        "thumbnail": "3a72c5ec-5b0f-728f-3989-f899bee093df",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -673,10 +866,15 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "6770e430-779c-a8eb-970f-4ea42a543a93": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Material Instances/Thumbnails/Dungeon Atlas.mtli.nasset.tex.nasset"
+    },
     "685cdd0c-3ce3-d430-d422-aa2e6a211d05": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Beaker Full05.mesh.nasset/Beaker Full05.mesh.nasset",
+        "thumbnail": "17d6c4d1-fadc-53c8-bfaf-6e1d5bf1951e",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -689,10 +887,15 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "69b2ca9b-5bd7-bce0-7b9b-d88cc10f44e4": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Amphora Stand.mesh.nasset/Thumbnails/Amphora Stand.mesh.nasset.tex.nasset"
+    },
     "6c084676-ea55-2f9b-c06b-bb2ed02bf529": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Jar Full5.mesh.nasset/Jar Full5.mesh.nasset",
+        "thumbnail": "06eb816e-69e8-e530-d704-28497bc41c00",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -700,6 +903,14 @@
     "6c8b93b3-89aa-4147-60a4-c61ed222b277": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Cubemaps/Alchemedes_Enviro.tex.nasset"
+    },
+    "6d09ccba-509f-07a0-0063-85c547a22419": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Book Red SM16.mesh.nasset/Thumbnails/Book Red SM16.mesh.nasset.tex.nasset"
+    },
+    "6dc60e5e-8bb1-5c7c-ba1e-f96efafdd3cb": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Wall Candle7.mesh.nasset/Thumbnails/Wall Candle7.mesh.nasset.tex.nasset"
     },
     "6f07f2ff-f6c1-49f2-ba3c-7b335b4fad76": {
         "assetTypeGuid": "dda212f1-b3e6-406b-b801-2079d4a65561",
@@ -709,6 +920,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Cell Floor Rocks LG05.mesh.nasset/Cell Floor Rocks LG05.mesh.nasset",
+        "thumbnail": "e3e272a3-5866-2413-ca63-4e3d8facb7f4",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -723,7 +935,8 @@
     },
     "7003d8a9-d165-fc05-88a6-51ebed2637e4": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Spider/Material Instances/Secondary.mtli.nasset"
+        "path": "Assets/Spider/Material Instances/Secondary.mtli.nasset",
+        "thumbnail": "d57ebcf0-1869-9268-085a-c69e238b73f0"
     },
     "700e5268-e8dd-ff66-5799-82a548d962d9": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -749,6 +962,14 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "73bddbb0-90bd-d71e-d441-d88c77befa54": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Wall Type 01 5.mesh.nasset/Thumbnails/Wall Type 01 5.mesh.nasset.tex.nasset"
+    },
+    "74cacc48-865b-18cd-cd34-f25983aa0fe4": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Plate SM8.mesh.nasset/Thumbnails/Plate SM8.mesh.nasset.tex.nasset"
+    },
     "75092582-33a5-f015-53fc-e9daaff28737": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
@@ -757,10 +978,15 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "7851c840-c570-c86c-6ec3-a1c981a1dfee": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Potion Blue8.mesh.nasset/Thumbnails/Potion Blue8.mesh.nasset.tex.nasset"
+    },
     "78a7382c-42ec-d520-7092-12d1bc803beb": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Cell Floor Puddle05.mesh.nasset/Cell Floor Puddle05.mesh.nasset",
+        "thumbnail": "19461685-e378-1a82-1968-0a16374bbf7e",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -769,18 +995,21 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Plate.mesh.nasset/Plate.mesh.nasset",
+        "thumbnail": "5b73bf4e-346b-ca95-8603-f7d156fee6c9",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
     "79be8bbd-022e-e543-5acd-1a7ba179119b": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Spider/Material Instances/Main1.mtli.nasset"
+        "path": "Assets/Spider/Material Instances/Main1.mtli.nasset",
+        "thumbnail": "dade9dff-d6d6-3296-9c59-fbd55873a66e"
     },
     "7a10c934-8bbb-82e3-043d-890a960e333f": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Scroll SM31.mesh.nasset/Scroll SM31.mesh.nasset",
+        "thumbnail": "61bc7f18-17e6-fe5d-1968-491f3955f78b",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -789,6 +1018,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Wall Wood Trim14.mesh.nasset/Wall Wood Trim14.mesh.nasset",
+        "thumbnail": "9b208113-590b-d6c5-51ae-5f583c550e8a",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -817,6 +1047,10 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "7da3516d-daf8-c4a1-e499-ae65538b083d": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Cauldron10.mesh.nasset/Thumbnails/Cauldron10.mesh.nasset.tex.nasset"
+    },
     "7dd30d50-7ca6-d5ac-684f-a8884c321869": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
@@ -824,6 +1058,10 @@
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
+    },
+    "7ddfcbc8-380e-5232-acf7-906dbfb12dec": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Top Stone Trim16.mesh.nasset/Thumbnails/Top Stone Trim16.mesh.nasset.tex.nasset"
     },
     "7fad56b5-5433-4258-8069-bafb25ce8711": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -842,6 +1080,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Stool Round4.mesh.nasset/Stool Round4.mesh.nasset",
+        "thumbnail": "913c3e68-db0a-d6c2-16e5-6740d4884f35",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -855,6 +1094,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Alchemedes.scene.nasset/ivy Branch4.mesh.nasset/ivy Branch4.mesh.nasset",
+        "thumbnail": "d0684692-ff54-7112-4cd1-784898289732",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -863,21 +1103,35 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Scene/Textures/T_dungeonAtlas_D.tex.nasset"
     },
+    "842a100d-22b0-e98f-9c0b-d227c997df4f": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Book Brown SM26.mesh.nasset/Thumbnails/Book Brown SM26.mesh.nasset.tex.nasset"
+    },
     "847a66c1-6df8-499b-18dc-07bb4615682c": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Beaker Empty4.mesh.nasset/Beaker Empty4.mesh.nasset",
+        "thumbnail": "5c4511d0-7ad1-b67a-14e0-3ed0dec922cf",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
+    },
+    "887c73d5-24a6-bd49-69e8-9709d05daca9": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Shelf Wall4.mesh.nasset/Thumbnails/Shelf Wall4.mesh.nasset.tex.nasset"
     },
     "8b5587bd-1b12-de2e-4d73-563608d8133e": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Grain Bag3.mesh.nasset/Grain Bag3.mesh.nasset",
+        "thumbnail": "a13d8c70-3934-2a0d-3e09-a7d215daf4a3",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
+    },
+    "8bb89186-4053-460f-9ba0-60808dd06b2f": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Book Green LG38.mesh.nasset/Thumbnails/Book Green LG38.mesh.nasset.tex.nasset"
     },
     "8da937f6-10aa-7211-e157-41902559c004": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -887,10 +1141,19 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "8ebf2469-5589-abf2-4542-cdd1a2bb7caf": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Spider/Material Instances/Thumbnails/Brown.mtli.nasset.tex.nasset"
+    },
+    "901206a7-c6ec-99c3-a66f-4158712ddfb2": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Alchemedes.scene.nasset/basementDoorLeft.mesh.nasset/Thumbnails/basementDoorLeft.mesh.nasset.tex.nasset"
+    },
     "90480705-6b8f-f788-c8dd-5b302da0f835": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Amphora6.mesh.nasset/Amphora6.mesh.nasset",
+        "thumbnail": "2cc9353b-828d-a949-e5c6-e7562a941947",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -899,9 +1162,26 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Wall Type 01 5.mesh.nasset/Wall Type 01 5.mesh.nasset",
+        "thumbnail": "73bddbb0-90bd-d71e-d441-d88c77befa54",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
+    },
+    "913c3e68-db0a-d6c2-16e5-6740d4884f35": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Stool Round4.mesh.nasset/Thumbnails/Stool Round4.mesh.nasset.tex.nasset"
+    },
+    "94be785f-5eb9-0f43-121d-e65e595b6b1c": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Crystal Ball.mesh.nasset/Thumbnails/Crystal Ball.mesh.nasset.tex.nasset"
+    },
+    "94c1fc5e-a114-6d23-62ae-ded1c29d61fe": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Cauldron Full.mesh.nasset/Thumbnails/Cauldron Full.mesh.nasset.tex.nasset"
+    },
+    "9519c369-43c4-1e3b-6fa8-d2fe587a3769": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Quill6.mesh.nasset/Thumbnails/Quill6.mesh.nasset.tex.nasset"
     },
     "95d6e320-a15e-0bf1-38f2-47c938dc4275": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -915,6 +1195,10 @@
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
+    },
+    "96ddfc9b-5e46-d0eb-b19d-d148b754719f": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Chest Open.mesh.nasset/Thumbnails/Chest Open.mesh.nasset.tex.nasset"
     },
     "978d5216-1aaf-06fc-1d53-0cbb7ec19905": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -948,10 +1232,27 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "98982ce3-ea42-f7ee-e0ae-408fc7791022": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Candelier Ceiling.mesh.nasset/Thumbnails/Candelier Ceiling.mesh.nasset.tex.nasset"
+    },
+    "98a98e5f-1c44-b8bd-6d44-7aaebb8a076f": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Bench.mesh.nasset/Thumbnails/Bench.mesh.nasset.tex.nasset"
+    },
+    "9b208113-590b-d6c5-51ae-5f583c550e8a": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Wall Wood Trim14.mesh.nasset/Thumbnails/Wall Wood Trim14.mesh.nasset.tex.nasset"
+    },
+    "9c952735-9354-14ad-3d64-09ac6d229783": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Barrel Closed4.mesh.nasset/Thumbnails/Barrel Closed4.mesh.nasset.tex.nasset"
+    },
     "9d83c65e-96f3-3246-bbb8-17bdbe83da94": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Wall Window2.mesh.nasset/Wall Window2.mesh.nasset",
+        "thumbnail": "c2de29ea-decb-088f-c9e0-ed14c6ee0c86",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -980,17 +1281,27 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Bucket4.mesh.nasset/Bucket4.mesh.nasset",
+        "thumbnail": "2d7d3f48-470f-c326-802e-f6ce34124403",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
+    },
+    "a13d8c70-3934-2a0d-3e09-a7d215daf4a3": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Grain Bag3.mesh.nasset/Thumbnails/Grain Bag3.mesh.nasset.tex.nasset"
     },
     "a1dc0706-4647-9264-eead-56987d8681bd": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Stool Square.mesh.nasset/Stool Square.mesh.nasset",
+        "thumbnail": "ea2904b1-abb5-1d38-b898-2da3d758baa4",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
+    },
+    "a1f38fa4-0486-2512-286b-438a1b6a8b3a": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Coat Hook Full.mesh.nasset/Thumbnails/Coat Hook Full.mesh.nasset.tex.nasset"
     },
     "a1fdb182-e184-71d9-00a2-e802181d2d4b": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -1012,9 +1323,14 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Skull7.mesh.nasset/Skull7.mesh.nasset",
+        "thumbnail": "5073b9fd-3e51-6151-c047-66798ae24e95",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
+    },
+    "a6ef0201-52aa-1551-2c66-9e75c8a1aebe": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Table6.mesh.nasset/Thumbnails/Table6.mesh.nasset.tex.nasset"
     },
     "a8146617-705b-45d8-8081-2fec12d073ef": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -1055,6 +1371,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Cauldron Empty.mesh.nasset/Cauldron Empty.mesh.nasset",
+        "thumbnail": "3d32befe-fc9e-0269-56a1-496fd7ed8cf7",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -1071,14 +1388,20 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Study Columns16.mesh.nasset/Study Columns16.mesh.nasset",
+        "thumbnail": "188a298e-5181-3a63-8776-d1b3f0d314ce",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
+    },
+    "aa7e381c-a0a6-2986-7111-d6095b1ac1ce": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Chest Closed.mesh.nasset/Thumbnails/Chest Closed.mesh.nasset.tex.nasset"
     },
     "aaacd936-fb8c-7a83-ee3f-fd0342b95ff5": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Wall Candle7.mesh.nasset/Wall Candle7.mesh.nasset",
+        "thumbnail": "6dc60e5e-8bb1-5c7c-ba1e-f96efafdd3cb",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -1111,6 +1434,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Carpet Red.mesh.nasset/Carpet Red.mesh.nasset",
+        "thumbnail": "6032dd1a-1608-b8fe-5bda-b5e15be9d233",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -1122,6 +1446,14 @@
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
+    },
+    "ae623ba7-c598-45d1-cd97-6919508806ac": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Inkwell6.mesh.nasset/Thumbnails/Inkwell6.mesh.nasset.tex.nasset"
+    },
+    "aeaa01eb-2b8e-d526-9911-1adf96d083ef": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Study Wall Door Frame2.mesh.nasset/Thumbnails/Study Wall Door Frame2.mesh.nasset.tex.nasset"
     },
     "af7bb992-2b0e-425c-ea2d-ce3c85b15de8": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -1138,6 +1470,10 @@
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
+    },
+    "b28ee29a-1e99-67b8-155a-ad8d1ef31a39": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Book Open6.mesh.nasset/Thumbnails/Book Open6.mesh.nasset.tex.nasset"
     },
     "b2a9f86d-dc43-8831-85cd-6630f29b0948": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -1157,12 +1493,18 @@
     },
     "b310b732-6388-0b46-0932-07838522812c": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Spider/Material Instances/Brown.mtli.nasset"
+        "path": "Assets/Spider/Material Instances/Brown.mtli.nasset",
+        "thumbnail": "8ebf2469-5589-abf2-4542-cdd1a2bb7caf"
+    },
+    "b34b3046-f8fb-7f83-1af8-b916d5399eff": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Stone Vert Trim16.mesh.nasset/Thumbnails/Stone Vert Trim16.mesh.nasset.tex.nasset"
     },
     "b4010651-cb02-11ee-97da-b8eebca64b8a": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Top Wood Trim27.mesh.nasset/Top Wood Trim27.mesh.nasset",
+        "thumbnail": "57eda7dd-3ee0-7e86-53e1-9d5b8d899160",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -1179,14 +1521,28 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Quill6.mesh.nasset/Quill6.mesh.nasset",
+        "thumbnail": "9519c369-43c4-1e3b-6fa8-d2fe587a3769",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
+    },
+    "b862ab42-8ec2-096e-94e0-be3b9f62ff19": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Alchemedes.scene.nasset/basementWallPrisonBroken.mesh.nasset/Thumbnails/basementWallPrisonBroken.mesh.nasset.tex.nasset"
+    },
+    "b899fe6a-9a26-bf5f-0fc7-13ca8695c4f3": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Cell Walls Wood Beam09.mesh.nasset/Thumbnails/Cell Walls Wood Beam09.mesh.nasset.tex.nasset"
+    },
+    "babc1eef-1eb8-c071-c1f8-d8a0f32ca018": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Scroll LG32.mesh.nasset/Thumbnails/Scroll LG32.mesh.nasset.tex.nasset"
     },
     "bbee4ce3-c7a5-19c4-cfa9-7da9991841e9": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Alchemedes.scene.nasset/basementWallPrisonBroken.mesh.nasset/basementWallPrisonBroken.mesh.nasset",
+        "thumbnail": "b862ab42-8ec2-096e-94e0-be3b9f62ff19",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -1203,6 +1559,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Alchemedes.scene.nasset/basementDoorLeft.mesh.nasset/basementDoorLeft.mesh.nasset",
+        "thumbnail": "901206a7-c6ec-99c3-a66f-4158712ddfb2",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -1219,35 +1576,71 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Alchemedes.scene.nasset/ivy Leaf6.mesh.nasset/ivy Leaf6.mesh.nasset",
+        "thumbnail": "578c882b-5fd8-4e25-7ca3-76c9ddff5a6e",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
+    },
+    "c2de29ea-decb-088f-c9e0-ed14c6ee0c86": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Wall Window2.mesh.nasset/Thumbnails/Wall Window2.mesh.nasset.tex.nasset"
+    },
+    "c5b68f96-746e-4778-85e7-563c9e945363": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Barrel Open.mesh.nasset/Thumbnails/Barrel Open.mesh.nasset.tex.nasset"
     },
     "c700b738-d5d7-48bb-a8c4-d090d7ae091d": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
         "path": "Assets/Alchemedes.scene.nasset"
     },
+    "c8deee76-65e8-b01d-7055-0f8dab991621": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Alchemedes.scene.nasset/doorWoodenRoundLeft.mesh.nasset/Thumbnails/doorWoodenRoundLeft.mesh.nasset.tex.nasset"
+    },
+    "c9501e88-ce3d-1c0c-3517-fd7614b10434": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Candelier4.mesh.nasset/Thumbnails/Candelier4.mesh.nasset.tex.nasset"
+    },
     "cd346bc1-4f72-e1d1-a8d5-6701b2f79233": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Plate SM8.mesh.nasset/Plate SM8.mesh.nasset",
+        "thumbnail": "74cacc48-865b-18cd-cd34-f25983aa0fe4",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
+    },
+    "ce74f05d-d20d-38aa-ee97-2fea7d322c22": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Cell Floor Rocks SM2.mesh.nasset/Thumbnails/Cell Floor Rocks SM2.mesh.nasset.tex.nasset"
     },
     "cee845fc-934d-6d3d-f729-e884f3400e49": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Book Brown SM26.mesh.nasset/Book Brown SM26.mesh.nasset",
+        "thumbnail": "842a100d-22b0-e98f-9c0b-d227c997df4f",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
+    },
+    "cf0c49f1-b20e-b257-1c8f-1b242eea3f5d": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Player/Thumbnails/Player.scene.nasset.tex.nasset"
+    },
+    "cf89deae-8990-069e-aa43-27c87651bdd7": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Scroll Elder.mesh.nasset/Thumbnails/Scroll Elder.mesh.nasset.tex.nasset"
+    },
+    "d0684692-ff54-7112-4cd1-784898289732": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Alchemedes.scene.nasset/ivy Branch4.mesh.nasset/Thumbnails/ivy Branch4.mesh.nasset.tex.nasset"
     },
     "d0a19c12-4e22-22db-60c0-299210db0d39": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Bone4.mesh.nasset/Bone4.mesh.nasset",
+        "thumbnail": "0c91d031-112a-7f34-b6b6-6ea8c3bc216a",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -1256,9 +1649,14 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Stone Vert Trim16.mesh.nasset/Stone Vert Trim16.mesh.nasset",
+        "thumbnail": "b34b3046-f8fb-7f83-1af8-b916d5399eff",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
+    },
+    "d26f22d2-6a99-8a12-fe8e-321fb1b7dc1a": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Jar Empty4.mesh.nasset/Thumbnails/Jar Empty4.mesh.nasset.tex.nasset"
     },
     "d382cc60-ece1-1b5b-3a25-90031ae47364": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -1272,9 +1670,14 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Shelf Wall4.mesh.nasset/Shelf Wall4.mesh.nasset",
+        "thumbnail": "887c73d5-24a6-bd49-69e8-9709d05daca9",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
+    },
+    "d497ea73-4859-e7c3-e4b8-4ed6853dd797": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Knife.mesh.nasset/Thumbnails/Knife.mesh.nasset.tex.nasset"
     },
     "d4d2f6dd-81c3-4e5f-87a7-2becc97b9bf3": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -1288,9 +1691,14 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Cell Walls Stone 02 4.mesh.nasset/Cell Walls Stone 02 4.mesh.nasset",
+        "thumbnail": "54da6a14-3e5f-67ac-7116-09780c46060e",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
+    },
+    "d57ebcf0-1869-9268-085a-c69e238b73f0": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Spider/Material Instances/Thumbnails/Secondary.mtli.nasset.tex.nasset"
     },
     "d5ae8b18-09d0-7223-1745-c2b72c02b0b5": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -1304,6 +1712,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Table6.mesh.nasset/Table6.mesh.nasset",
+        "thumbnail": "a6ef0201-52aa-1551-2c66-9e75c8a1aebe",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -1324,6 +1733,10 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "d7cc3070-60ac-a845-4728-f65ef35a2367": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Cell Walls Stone 01 3.mesh.nasset/Thumbnails/Cell Walls Stone 01 3.mesh.nasset.tex.nasset"
+    },
     "d88c8174-1258-a92b-e74d-f8c4cfd7bc4d": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1340,10 +1753,19 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "d95d23bb-9899-ade6-976e-15c6062a58eb": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Potion Red10.mesh.nasset/Thumbnails/Potion Red10.mesh.nasset.tex.nasset"
+    },
+    "dade9dff-d6d6-3296-9c59-fbd55873a66e": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Spider/Material Instances/Thumbnails/Main1.mtli.nasset.tex.nasset"
+    },
     "db1c7ef1-79fa-1f05-58e8-6a3f53e2e3a0": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Scroll Elder.mesh.nasset/Scroll Elder.mesh.nasset",
+        "thumbnail": "cf89deae-8990-069e-aa43-27c87651bdd7",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -1376,6 +1798,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Book Red38.mesh.nasset/Book Red38.mesh.nasset",
+        "thumbnail": "02f029d7-1c62-f0ca-6b55-f2e79a878ec8",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -1393,10 +1816,19 @@
         "path": "Project.nproject",
         "thumbnail": "3211d97a-d452-4fac-93df-ebe7f3104539"
     },
+    "dfc12ad0-21da-a8a8-ccf7-d64ae2d703a1": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Jar LG8.mesh.nasset/Thumbnails/Jar LG8.mesh.nasset.tex.nasset"
+    },
+    "e3e272a3-5866-2413-ca63-4e3d8facb7f4": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Cell Floor Rocks LG05.mesh.nasset/Thumbnails/Cell Floor Rocks LG05.mesh.nasset.tex.nasset"
+    },
     "e5179863-f5df-c580-b760-290bb85a5432": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Scroll LG32.mesh.nasset/Scroll LG32.mesh.nasset",
+        "thumbnail": "babc1eef-1eb8-c071-c1f8-d8a0f32ca018",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -1405,6 +1837,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Bench.mesh.nasset/Bench.mesh.nasset",
+        "thumbnail": "98a98e5f-1c44-b8bd-6d44-7aaebb8a076f",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -1413,6 +1846,10 @@
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
         "path": "Assets/Spider/SK_Spider.scene.nasset/SK Spider.mesh.nasset/SK Spider Secondary.meshskin.nasset"
+    },
+    "e6e6208f-863c-0041-389d-8cf1d2808d85": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Wall Type 03 4.mesh.nasset/Thumbnails/Wall Type 03 4.mesh.nasset.tex.nasset"
     },
     "e78262a2-99d6-4383-b4a8-b8839bc12f2e": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -1423,13 +1860,10 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Fork.mesh.nasset/Fork.mesh.nasset",
+        "thumbnail": "fcc2cf54-f82d-2ec1-1ab5-e36bb5480108",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
-    },
-    "e95160b5-9f01-a360-4319-88759e54333f": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Player/Thumbnails/Player.scene.nasset.tex.nasset"
     },
     "e9eb9d04-0b8f-c061-a9f2-ef74b36c8af6": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -1438,6 +1872,10 @@
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
+    },
+    "ea2904b1-abb5-1d38-b898-2da3d758baa4": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Stool Square.mesh.nasset/Thumbnails/Stool Square.mesh.nasset.tex.nasset"
     },
     "ea5054ad-c824-40c8-ec06-f939c69ea0c4": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -1456,12 +1894,13 @@
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Player/Player.scene.nasset",
-        "thumbnail": "e95160b5-9f01-a360-4319-88759e54333f"
+        "thumbnail": "cf0c49f1-b20e-b257-1c8f-1b242eea3f5d"
     },
     "ec7500f7-30dd-ed42-a8cf-20a623eb4988": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Candelier4.mesh.nasset/Candelier4.mesh.nasset",
+        "thumbnail": "c9501e88-ce3d-1c0c-3517-fd7614b10434",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -1470,6 +1909,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Dungeon Floor Square LG12.mesh.nasset/Dungeon Floor Square LG12.mesh.nasset",
+        "thumbnail": "35c04e6f-8782-f9e7-7175-737dba54c9f8",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -1478,6 +1918,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Candelier Ceiling.mesh.nasset/Candelier Ceiling.mesh.nasset",
+        "thumbnail": "98982ce3-ea42-f7ee-e0ae-408fc7791022",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -1486,6 +1927,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Cell Walls Stone 01 3.mesh.nasset/Cell Walls Stone 01 3.mesh.nasset",
+        "thumbnail": "d7cc3070-60ac-a845-4728-f65ef35a2367",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -1494,6 +1936,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Scroll Open.mesh.nasset/Scroll Open.mesh.nasset",
+        "thumbnail": "48fe03d0-fd9f-ee4e-7c2e-533cf69eea77",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -1502,6 +1945,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Cell Walls Wood Beam09.mesh.nasset/Cell Walls Wood Beam09.mesh.nasset",
+        "thumbnail": "b899fe6a-9a26-bf5f-0fc7-13ca8695c4f3",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -1514,10 +1958,15 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "efcbdc1a-e841-220b-b26b-c105dbb1c61c": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Alchemedes.scene.nasset/basementPassagePrison.mesh.nasset/Thumbnails/basementPassagePrison.mesh.nasset.tex.nasset"
+    },
     "f49280c9-ea3b-9960-4c74-41a9c1b9f6ea": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Book Red Deep24.mesh.nasset/Book Red Deep24.mesh.nasset",
+        "thumbnail": "3ee82561-5152-95e8-1436-c19c97b4d4fe",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -1526,6 +1975,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Cell Floor Rocks SM2.mesh.nasset/Cell Floor Rocks SM2.mesh.nasset",
+        "thumbnail": "ce74f05d-d20d-38aa-ee97-2fea7d322c22",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -1534,9 +1984,14 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Firewood Stack.mesh.nasset/Firewood Stack.mesh.nasset",
+        "thumbnail": "08b62cc8-a1ce-388d-963a-8d442156ab80",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
+    },
+    "f6819b7f-9758-524b-4e08-d9f8e8a859ca": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Key Golden.mesh.nasset/Thumbnails/Key Golden.mesh.nasset.tex.nasset"
     },
     "f7c957b8-a427-cef0-860d-ee718af7d858": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -1546,10 +2001,15 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "f90b5cbe-5e0c-6808-8307-f23b12d7cbd6": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Spider/SK_Spider.scene.nasset/SK Spider.mesh.nasset/Thumbnails/SK Spider.mesh.nasset.tex.nasset"
+    },
     "fa317213-eb04-d4e8-9553-9e80e96f8e21": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Chest Open.mesh.nasset/Chest Open.mesh.nasset",
+        "thumbnail": "96ddfc9b-5e46-d0eb-b19d-d148b754719f",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -1566,6 +2026,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Top Stone Trim16.mesh.nasset/Top Stone Trim16.mesh.nasset",
+        "thumbnail": "7ddfcbc8-380e-5232-acf7-906dbfb12dec",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -1577,5 +2038,13 @@
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
+    },
+    "fc655812-fcc6-60e2-7b50-661ec3acbfd5": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Spider/Material Instances/Thumbnails/Eyes1.mtli.nasset.tex.nasset"
+    },
+    "fcc2cf54-f82d-2ec1-1ab5-e36bb5480108": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Alchemedes.scene.nasset/Fork.mesh.nasset/Thumbnails/Fork.mesh.nasset.tex.nasset"
     }
 }

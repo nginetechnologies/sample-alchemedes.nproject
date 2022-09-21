@@ -8,138 +8,139 @@
     "instanceGuid": "ca8fa885-f5be-2a8b-f069-0d0b587446d9",
     "data_components": [],
     "children": [
-		{
-			"typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-			"instanceGuid": "721cff00-913e-75e7-e4f8-6588400670dd",
-			"data_components": [
-				{
-					"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-					"name": "Skeleton"
-				}
-			],
-			"children": [
-				{
-					"typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-					"instanceGuid": "4e1bc401-6f29-9243-0b40-24f71ec2b1ee",
-					"data_components": [
-						{
-							"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-							"name": "SK Spider Secondary"
-						}
-					],
-					"9f750482-b822-4d4b-be6a-9c135c614328": {
-						"stages": [
-							"bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
-							"dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
-						]
-					},
-					"de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-						"mesh": "ef4bbc1f-262a-c8fa-f32a-890c25dbf2b6",
-						"material_instance": "7003d8a9-d165-fc05-88a6-51ebed2637e4"
-					},
-					"e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
-						"skin": "e6058551-4128-e6e3-7db0-88783913c7d0"
-					}
-				},
-				{
-					"typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-					"instanceGuid": "e6c3c406-c3e5-9129-4635-5852c7128779",
-					"data_components": [
-						{
-							"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-							"name": "SK Spider Brown"
-						}
-					],
-					"9f750482-b822-4d4b-be6a-9c135c614328": {
-						"stages": [
-							"bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
-							"dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
-						]
-					},
-					"de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-						"mesh": "d4d2f6dd-81c3-4e5f-87a7-2becc97b9bf3",
-						"material_instance": "b310b732-6388-0b46-0932-07838522812c"
-					},
-					"e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
-						"skin": "343704e9-6ad1-07f3-3ed8-e5a14477b49a"
-					}
-				},
-				{
-					"typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-					"instanceGuid": "28a3449d-36b7-3df2-1320-a5b69a6aa28b",
-					"data_components": [
-						{
-							"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-							"name": "SK Spider White1"
-						}
-					],
-					"9f750482-b822-4d4b-be6a-9c135c614328": {
-						"stages": [
-							"bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
-							"dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
-						]
-					},
-					"de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-						"mesh": "4dad71ef-ab00-2322-a5d1-ec7aa16b88d8",
-						"material_instance": "3caa040c-aea0-4af2-ddb2-06c6a4245056"
-					},
-					"e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
-						"skin": "0a3c84c2-2089-a250-d865-ae771755010d"
-					}
-				},
-				{
-					"typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-					"instanceGuid": "0fdf0fd5-a995-ec89-5557-9c3398017feb",
-					"data_components": [
-						{
-							"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-							"name": "SK Spider Eyes1"
-						}
-					],
-					"9f750482-b822-4d4b-be6a-9c135c614328": {
-						"stages": [
-							"bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
-							"dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
-						]
-					},
-					"de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-						"mesh": "d88c8174-1258-a92b-e74d-f8c4cfd7bc4d",
-						"material_instance": "3d4a7fad-8ee4-a59a-0da8-e9bd7fe32073"
-					},
-					"e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
-						"skin": "ea9617f6-2fda-f8d4-1325-bdd07a9637b1"
-					}
-				},
-				{
-					"typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-					"instanceGuid": "f35bf9f7-7366-e4f6-3cf1-3cd8176b0111",
-					"data_components": [
-						{
-							"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-							"name": "SK Spider Main1"
-						}
-					],
-					"9f750482-b822-4d4b-be6a-9c135c614328": {
-						"stages": [
-							"bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
-							"dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
-						]
-					},
-					"de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-						"mesh": "712622bc-75ee-98b3-57b0-684c4600a5be",
-						"material_instance": "79be8bbd-022e-e543-5acd-1a7ba179119b"
-					},
-					"e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
-						"skin": "7faf5828-5cdc-0048-3062-b372dda56a91"
-					}
-				}
-			],
-			"f6140603-c29e-4bf9-946d-498dba6709ff": {
-				"skeleton": "63cca087-a799-7b9d-95af-8da4ed8b1d04"
-			}
-		}
+        {
+            "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+            "instanceGuid": "721cff00-913e-75e7-e4f8-6588400670dd",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Skeleton"
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                    "instanceGuid": "4e1bc401-6f29-9243-0b40-24f71ec2b1ee",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "SK Spider Secondary"
+                        }
+                    ],
+                    "9f750482-b822-4d4b-be6a-9c135c614328": {
+                        "stages": [
+                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                        ]
+                    },
+                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                        "mesh": "ef4bbc1f-262a-c8fa-f32a-890c25dbf2b6",
+                        "material_instance": "7003d8a9-d165-fc05-88a6-51ebed2637e4"
+                    },
+                    "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                        "skin": "e6058551-4128-e6e3-7db0-88783913c7d0"
+                    }
+                },
+                {
+                    "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                    "instanceGuid": "e6c3c406-c3e5-9129-4635-5852c7128779",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "SK Spider Brown"
+                        }
+                    ],
+                    "9f750482-b822-4d4b-be6a-9c135c614328": {
+                        "stages": [
+                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                        ]
+                    },
+                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                        "mesh": "d4d2f6dd-81c3-4e5f-87a7-2becc97b9bf3",
+                        "material_instance": "b310b732-6388-0b46-0932-07838522812c"
+                    },
+                    "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                        "skin": "343704e9-6ad1-07f3-3ed8-e5a14477b49a"
+                    }
+                },
+                {
+                    "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                    "instanceGuid": "28a3449d-36b7-3df2-1320-a5b69a6aa28b",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "SK Spider White1"
+                        }
+                    ],
+                    "9f750482-b822-4d4b-be6a-9c135c614328": {
+                        "stages": [
+                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                        ]
+                    },
+                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                        "mesh": "4dad71ef-ab00-2322-a5d1-ec7aa16b88d8",
+                        "material_instance": "3caa040c-aea0-4af2-ddb2-06c6a4245056"
+                    },
+                    "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                        "skin": "0a3c84c2-2089-a250-d865-ae771755010d"
+                    }
+                },
+                {
+                    "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                    "instanceGuid": "0fdf0fd5-a995-ec89-5557-9c3398017feb",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "SK Spider Eyes1"
+                        }
+                    ],
+                    "9f750482-b822-4d4b-be6a-9c135c614328": {
+                        "stages": [
+                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                        ]
+                    },
+                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                        "mesh": "d88c8174-1258-a92b-e74d-f8c4cfd7bc4d",
+                        "material_instance": "3d4a7fad-8ee4-a59a-0da8-e9bd7fe32073"
+                    },
+                    "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                        "skin": "ea9617f6-2fda-f8d4-1325-bdd07a9637b1"
+                    }
+                },
+                {
+                    "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                    "instanceGuid": "f35bf9f7-7366-e4f6-3cf1-3cd8176b0111",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "SK Spider Main1"
+                        }
+                    ],
+                    "9f750482-b822-4d4b-be6a-9c135c614328": {
+                        "stages": [
+                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                        ]
+                    },
+                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                        "mesh": "712622bc-75ee-98b3-57b0-684c4600a5be",
+                        "material_instance": "79be8bbd-022e-e543-5acd-1a7ba179119b"
+                    },
+                    "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                        "skin": "7faf5828-5cdc-0048-3062-b372dda56a91"
+                    }
+                }
+            ],
+            "f6140603-c29e-4bf9-946d-498dba6709ff": {
+                "skeleton": "63cca087-a799-7b9d-95af-8da4ed8b1d04"
+            }
+        }
     ],
     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
         "scene": "308ef67a-9524-3c38-1447-942f7fc2aa7b"
-    }
+    },
+    "thumbnailGuid": "f90b5cbe-5e0c-6808-8307-f23b12d7cbd6"
 }
