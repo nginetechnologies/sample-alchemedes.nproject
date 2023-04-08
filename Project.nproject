@@ -1,6 +1,7 @@
 {
     "name": "Alchemedes",
     "guid": "df9d8c8f-8b74-43dc-9a95-b57a6eda5af4",
+    "database_guid": "ac5949dc-ccde-a9e6-0ff2-5c360477d2b8",
     "version": "1.0.0",
     "engine": "3ff049e0-0880-4898-879d-1ccf5583c9c6",
     "plugins": [
@@ -12,9 +13,8 @@
     "binary_directory": "bin",
     "library_directory": "lib",
     "thumbnail_guid": "3211d97a-d452-4fac-93df-ebe7f3104539",
-    "default_scene": "c700b738-d5d7-48bb-a8c4-d090d7ae091d",
-    "source": "Alchemedes.nproject",
-    "tags": [ "f5777f96-a43c-4ebd-872a-1eeda5719aaf" ],
+    "default_scene": "11a3b96d-6b84-4afd-942d-cdf877184c4b",
+    "source": "Project.nproject",
 	"settings": {
 		"5ED68A2E-C9AF-454F-AD1E-416044E6498A": {
 			"type": "EF61ECBA-906C-481A-B501-966A6BB4729C",

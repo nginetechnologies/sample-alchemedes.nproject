@@ -3,10 +3,10 @@
     "source": "Alchemedes_Enviro.exr",
     "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
     "resolution": [
-        1024.0,
-        1024.0
+        512
     ],
     "preset": 9,
+    "intensity_factor": 3,
     "usage_flags": 6,
     "array_size": 6,
     "bc_data": {
@@ -15,59 +15,108 @@
             {
                 "level": 0,
                 "offset": 0,
-                "size": 6291456
-            },
-            {
-                "level": 1,
-                "offset": 6291456,
                 "size": 1572864
             },
             {
-                "level": 2,
-                "offset": 7864320,
+                "level": 1,
+                "offset": 1572864,
                 "size": 393216
             },
             {
-                "level": 3,
-                "offset": 8257536,
+                "level": 2,
+                "offset": 1966080,
                 "size": 98304
             },
             {
-                "level": 4,
-                "offset": 8355840,
+                "level": 3,
+                "offset": 2064384,
                 "size": 24576
             },
             {
-                "level": 5,
-                "offset": 8380416,
+                "level": 4,
+                "offset": 2088960,
                 "size": 6144
             },
             {
-                "level": 6,
-                "offset": 8386560,
+                "level": 5,
+                "offset": 2095104,
                 "size": 1536
             },
             {
-                "level": 7,
-                "offset": 8388096,
+                "level": 6,
+                "offset": 2096640,
                 "size": 384
             },
             {
+                "level": 7,
+                "offset": 2097024,
+                "size": 96
+            },
+            {
                 "level": 8,
-                "offset": 8388480,
+                "offset": 2097120,
                 "size": 96
             },
             {
                 "level": 9,
-                "offset": 8388576,
-                "size": 96
-            },
-            {
-                "level": 10,
-                "offset": 8388672,
+                "offset": 2097216,
                 "size": 96
             }
         ]
     },
-    "astc_data": {}
+    "astc_data": {
+        "format": 171,
+        "mipmap_info": [
+            {
+                "level": 0,
+                "offset": 0,
+                "size": 393216
+            },
+            {
+                "level": 1,
+                "offset": 393216,
+                "size": 98304
+            },
+            {
+                "level": 2,
+                "offset": 491520,
+                "size": 24576
+            },
+            {
+                "level": 3,
+                "offset": 516096,
+                "size": 6144
+            },
+            {
+                "level": 4,
+                "offset": 522240,
+                "size": 1536
+            },
+            {
+                "level": 5,
+                "offset": 523776,
+                "size": 384
+            },
+            {
+                "level": 6,
+                "offset": 524160,
+                "size": 96
+            },
+            {
+                "level": 7,
+                "offset": 524256,
+                "size": 96
+            },
+            {
+                "level": 8,
+                "offset": 524352,
+                "size": 96
+            },
+            {
+                "level": 9,
+                "offset": 524448,
+                "size": 96
+            }
+        ]
+    }
 }
