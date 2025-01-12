@@ -1,0 +1,298 @@
+{
+    "guid": "aabceb49-60d4-f2de-9ff2-ac4f0d5dda94",
+    "source": "../SC_Alchemedes_Lights.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "df1a86ab-cbe7-310b-b6af-b91022bc2627",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "Alchemedes Lights"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "c720a57c-40c6-48a4-8f18-12d41e093616",
+            "instanceGuid": "3d8d1cd0-7491-378a-c5e6-5136af08825d",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Cell Hallway 1"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -1.66,
+                    -8.0064,
+                    2.498
+                ],
+                "rotation": [
+                    89.9999,
+                    -0.0,
+                    179.9999
+                ],
+                "scale": [
+                    0.0099
+                ]
+            },
+            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                "stages": [
+                    "f141b823-5844-4fbc-b106-0635ff52199c",
+                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                ]
+            },
+            "c720a57c-40c6-48a4-8f18-12d41e093616": {
+                "influenceRadius": 86.6025,
+                "color": "#ffb178"
+            }
+        },
+        {
+            "typeGuid": "c720a57c-40c6-48a4-8f18-12d41e093616",
+            "instanceGuid": "4c580696-d814-b070-c07a-a17442fe3219",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Cell Hallway 2"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -0.0064,
+                    -13.5998,
+                    2.498
+                ],
+                "rotation": [
+                    89.9999,
+                    -0.0,
+                    179.9999
+                ],
+                "scale": [
+                    0.0099
+                ]
+            },
+            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                "stages": [
+                    "f141b823-5844-4fbc-b106-0635ff52199c",
+                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                ]
+            },
+            "c720a57c-40c6-48a4-8f18-12d41e093616": {
+                "influenceRadius": 86.6025,
+                "color": "#ffb178"
+            }
+        },
+        {
+            "typeGuid": "c720a57c-40c6-48a4-8f18-12d41e093616",
+            "instanceGuid": "05d81ab9-ed9a-2945-bee1-56fc930c1dc6",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Cell Hallway 3"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    5.5444,
+                    -16.2408,
+                    0.3967
+                ],
+                "rotation": [
+                    89.9999,
+                    -0.0,
+                    179.9999
+                ],
+                "scale": [
+                    0.0099
+                ]
+            },
+            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                "stages": [
+                    "f141b823-5844-4fbc-b106-0635ff52199c",
+                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                ]
+            },
+            "c720a57c-40c6-48a4-8f18-12d41e093616": {
+                "influenceRadius": 50.0,
+                "color": "#ffa25e"
+            }
+        },
+        {
+            "typeGuid": "c720a57c-40c6-48a4-8f18-12d41e093616",
+            "instanceGuid": "17ce1f7f-6a87-57e9-554d-00c112828d60",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Study 1"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    5.9895,
+                    2.606,
+                    2.498
+                ],
+                "rotation": [
+                    89.9999,
+                    -0.0,
+                    179.9999
+                ],
+                "scale": [
+                    0.0099
+                ]
+            },
+            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                "stages": [
+                    "f141b823-5844-4fbc-b106-0635ff52199c",
+                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                ]
+            },
+            "c720a57c-40c6-48a4-8f18-12d41e093616": {
+                "influenceRadius": 86.6025,
+                "color": "#ffb178"
+            }
+        },
+        {
+            "typeGuid": "c720a57c-40c6-48a4-8f18-12d41e093616",
+            "instanceGuid": "150956b0-70a9-3acb-0f96-21048f4d5f30",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Study 2"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    9.2679,
+                    6.0007,
+                    2.498
+                ],
+                "rotation": [
+                    89.9999,
+                    -0.0,
+                    179.9999
+                ],
+                "scale": [
+                    0.0099
+                ]
+            },
+            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                "stages": [
+                    "f141b823-5844-4fbc-b106-0635ff52199c",
+                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                ]
+            },
+            "c720a57c-40c6-48a4-8f18-12d41e093616": {
+                "influenceRadius": 86.6025,
+                "color": "#ffb178"
+            }
+        },
+        {
+            "typeGuid": "c720a57c-40c6-48a4-8f18-12d41e093616",
+            "instanceGuid": "81dc27af-1616-ca96-656b-8e22c71c88c5",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Study Doorway"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    6.0018,
+                    13.3573,
+                    2.498
+                ],
+                "rotation": [
+                    89.9999,
+                    -0.0,
+                    179.9999
+                ],
+                "scale": [
+                    0.0099
+                ]
+            },
+            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                "stages": [
+                    "f141b823-5844-4fbc-b106-0635ff52199c",
+                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                ]
+            },
+            "c720a57c-40c6-48a4-8f18-12d41e093616": {
+                "influenceRadius": 86.6025,
+                "color": "#ffb178"
+            }
+        },
+        {
+            "typeGuid": "c720a57c-40c6-48a4-8f18-12d41e093616",
+            "instanceGuid": "540e78aa-d958-597e-2077-c2bcbd7d19a2",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Study Fireplace"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -2.0062,
+                    9.418,
+                    2.498
+                ],
+                "rotation": [
+                    89.9999,
+                    -0.0,
+                    179.9999
+                ],
+                "scale": [
+                    0.0099
+                ]
+            },
+            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                "stages": [
+                    "f141b823-5844-4fbc-b106-0635ff52199c",
+                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                ]
+            },
+            "c720a57c-40c6-48a4-8f18-12d41e093616": {
+                "influenceRadius": 86.6025,
+                "color": "#ffb178"
+            }
+        },
+        {
+            "typeGuid": "c720a57c-40c6-48a4-8f18-12d41e093616",
+            "instanceGuid": "3bf8251d-55b8-e99d-d262-73fbada86ec0",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Study Jail Entrace"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -2.0062,
+                    2.5327,
+                    2.498
+                ],
+                "rotation": [
+                    89.9999,
+                    -0.0,
+                    179.9999
+                ],
+                "scale": [
+                    0.0099
+                ]
+            },
+            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                "stages": [
+                    "f141b823-5844-4fbc-b106-0635ff52199c",
+                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                ]
+            },
+            "c720a57c-40c6-48a4-8f18-12d41e093616": {
+                "influenceRadius": 86.6025,
+                "color": "#ffb178"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "aabceb49-60d4-f2de-9ff2-ac4f0d5dda94"
+    }
+}
